@@ -1,6 +1,6 @@
 # GWLAN
 
-This repo contains the dev and test sets used in **G**eneral **W**ord-**L**evel **A**utocompletio**N** (GWLAN) task.
+This repo contains the dev and test sets used for **G**eneral **W**ord-**L**evel **A**utocompletio**N** (GWLAN) task.
 
 Please feel free to let me know if you have any further questions.
 
